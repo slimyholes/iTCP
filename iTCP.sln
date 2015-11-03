@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F14367EE-01CD-45CE-ACE3-84E0DD143084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTCP.Core", "iTCP.Core\iTCP.Core.csproj", "{9865A366-4CD9-4BB0-BE53-9023AE00CA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{D65EEC37-7C57-49C9-8F81-38C3EB9B3149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14367EE-01CD-45CE-ACE3-84E0DD143084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14367EE-01CD-45CE-ACE3-84E0DD143084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14367EE-01CD-45CE-ACE3-84E0DD143084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14367EE-01CD-45CE-ACE3-84E0DD143084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9865A366-4CD9-4BB0-BE53-9023AE00CA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9865A366-4CD9-4BB0-BE53-9023AE00CA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9865A366-4CD9-4BB0-BE53-9023AE00CA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9865A366-4CD9-4BB0-BE53-9023AE00CA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65EEC37-7C57-49C9-8F81-38C3EB9B3149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65EEC37-7C57-49C9-8F81-38C3EB9B3149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65EEC37-7C57-49C9-8F81-38C3EB9B3149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65EEC37-7C57-49C9-8F81-38C3EB9B3149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

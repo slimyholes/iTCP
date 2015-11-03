@@ -1,0 +1,8 @@
+X:\C#\Projects\iTCP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+X:\C#\Projects\iTCP\Server\bin\Debug\Server.exe.config
+X:\C#\Projects\iTCP\Server\bin\Debug\Server.exe
+X:\C#\Projects\iTCP\Server\bin\Debug\Server.pdb
+X:\C#\Projects\iTCP\Server\bin\Debug\iTCP.Core.dll
+X:\C#\Projects\iTCP\Server\bin\Debug\iTCP.Core.pdb
+X:\C#\Projects\iTCP\Server\obj\Debug\Server.exe
+X:\C#\Projects\iTCP\Server\obj\Debug\Server.pdb

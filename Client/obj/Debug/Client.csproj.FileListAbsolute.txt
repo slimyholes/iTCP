@@ -1,0 +1,8 @@
+X:\C#\Projects\iTCP\Client\bin\Debug\Client.exe.config
+X:\C#\Projects\iTCP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+X:\C#\Projects\iTCP\Client\bin\Debug\Client.exe
+X:\C#\Projects\iTCP\Client\bin\Debug\Client.pdb
+X:\C#\Projects\iTCP\Client\bin\Debug\iTCP.Core.dll
+X:\C#\Projects\iTCP\Client\bin\Debug\iTCP.Core.pdb
+X:\C#\Projects\iTCP\Client\obj\Debug\Client.exe
+X:\C#\Projects\iTCP\Client\obj\Debug\Client.pdb

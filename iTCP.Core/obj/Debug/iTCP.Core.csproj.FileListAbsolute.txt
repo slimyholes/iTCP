@@ -1,0 +1,5 @@
+X:\C#\Projects\iTCP\iTCP.Core\bin\Debug\iTCP.Core.dll
+X:\C#\Projects\iTCP\iTCP.Core\bin\Debug\iTCP.Core.pdb
+X:\C#\Projects\iTCP\iTCP.Core\obj\Debug\iTCP.Core.csprojResolveAssemblyReference.cache
+X:\C#\Projects\iTCP\iTCP.Core\obj\Debug\iTCP.Core.dll
+X:\C#\Projects\iTCP\iTCP.Core\obj\Debug\iTCP.Core.pdb

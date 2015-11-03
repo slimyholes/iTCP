@@ -1,0 +1,1 @@
+X:\C#\Projects\iTCP\iTCP\bin\Debug\iTCP.exe.config
